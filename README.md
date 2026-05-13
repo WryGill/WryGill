@@ -53,9 +53,9 @@
 ### 📊 GitHub Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=WryGill&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=WryGill&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2563EB&icon_color=2563EB&text_color=24292F" />
-  <img height="170" alt="WryGill's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=WryGill&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2563EB&icon_color=2563EB&text_color=24292F" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sooty-nu-61.vercel.app/api?username=WryGill&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sooty-nu-61.vercel.app/api?username=WryGill&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2563EB&icon_color=2563EB&text_color=24292F" />
+  <img height="170" alt="WryGill's GitHub Stats" src="https://github-readme-stats-sooty-nu-61.vercel.app/api?username=WryGill&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2563EB&icon_color=2563EB&text_color=24292F" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=WryGill&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=58A6FF" />
@@ -66,22 +66,27 @@
 ### 📈 Most Used Languages
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WryGill&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WryGill&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=24292F" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WryGill&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=24292F" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sooty-nu-61.vercel.app/api/top-langs/?username=WryGill&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sooty-nu-61.vercel.app/api/top-langs/?username=WryGill&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=24292F" />
+  <img alt="Top Languages" src="https://github-readme-stats-sooty-nu-61.vercel.app/api/top-langs/?username=WryGill&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=24292F" />
 </picture>
 
 ---
 
 ### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/WryGill/WryGill/output/assets/github-contribution-grid-snake.svg" alt="github-snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WryGill/WryGill/output/assets/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WryGill/WryGill/output/assets/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/WryGill/WryGill/output/assets/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
 ### 📌 Featured Project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WryGill&repo=heartlib&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=24292F&icon_color=2563EB)](https://github.com/WryGill/heartlib)
+[![Readme Card](https://github-readme-stats-sooty-nu-61.vercel.app/api/pin/?username=WryGill&repo=heartlib&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=24292F&icon_color=2563EB#gh-light-mode-only)](https://github.com/WryGill/heartlib)
+[![Readme Card](https://github-readme-stats-sooty-nu-61.vercel.app/api/pin/?username=WryGill&repo=heartlib&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF#gh-dark-mode-only)](https://github.com/WryGill/heartlib)
 
 ---
 
