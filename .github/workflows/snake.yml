@@ -9,21 +9,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate Snake Game from GitHub Contribution Graph
-        uses: PlatziMaqui/github-contribution-grid-snake@main
+        uses: Platane/snk@v3
         with:
           github_user_name: WryGill
-          gif_out_path: dist/assets/github-contribution-grid-snake.gif
-          svg_out_path: dist/assets/github-contribution-grid-snake.svg
-
-      - name: Generate dark variant
-        uses: PlatziMaqui/github-contribution-grid-snake@main
-        with:
-          github_user_name: WryGill
-          svg_out_path: dist/assets/github-contribution-grid-snake-dark.svg
-          color_snake: "58A6FF"
-          color_bg: "0D1117"
-          color_grid: "161B22"
-          color_dot: "1F6FEB"
+          outputs: |
+            dist/assets/github-contribution-grid-snake.svg
+            dist/assets/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
