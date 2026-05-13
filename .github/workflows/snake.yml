@@ -1,8 +1,8 @@
 name: Generate Snake Contribution Graph
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs at 00:00 UTC every day
-  workflow_dispatch:       # Allows manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -14,6 +14,16 @@ jobs:
           github_user_name: WryGill
           gif_out_path: dist/assets/github-contribution-grid-snake.gif
           svg_out_path: dist/assets/github-contribution-grid-snake.svg
+
+      - name: Generate dark variant
+        uses: PlatziMaqui/github-contribution-grid-snake@main
+        with:
+          github_user_name: WryGill
+          svg_out_path: dist/assets/github-contribution-grid-snake-dark.svg
+          color_snake: "58A6FF"
+          color_bg: "0D1117"
+          color_grid: "161B22"
+          color_dot: "1F6FEB"
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
