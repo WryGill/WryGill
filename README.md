@@ -83,13 +83,6 @@
 
 ---
 
-### 📌 Featured Project
-
-[![Readme Card](https://github-readme-stats-sooty-nu-61.vercel.app/api/pin/?username=WryGill&repo=heartlib&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=24292F&icon_color=2563EB#gh-light-mode-only)](https://github.com/WryGill/heartlib)
-[![Readme Card](https://github-readme-stats-sooty-nu-61.vercel.app/api/pin/?username=WryGill&repo=heartlib&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF#gh-dark-mode-only)](https://github.com/WryGill/heartlib)
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=WryGill&style=flat-square&color=2563EB" alt="visitor count" />
 </p>
