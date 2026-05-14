@@ -28,8 +28,6 @@
 - 🛠️ Focused on **Backend Development** — Spring Boot, gRPC, Redis
 - 🌱 Exploring **distributed systems** & **cloud-native architecture**
 - 💬 Ask me about Java backend, system design, or anything interesting
-- ✉️ Reach me: **constantblock37@gmail.com**
-- 📝 Blog: [wrygill.github.io](https://wrygill.github.io)
 - ⚡ Fun fact: I automate things so I don't have to do them manually
 
 ---
