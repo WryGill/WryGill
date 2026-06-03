@@ -1,86 +1,78 @@
-<div align="center">
-  <img src="assets/header.svg" alt="Aromatic - Backend Engineer" width="100%" />
-</div>
+![Aromatic - Backend & AI Infra](https://raw.githubusercontent.com/WryGill/WryGill/main/assets/header.svg)
 
 <p align="center">
-  <a href="mailto:constantblock37@gmail.com">
-    <img src="https://img.shields.io/badge/Email-constantblock37@gmail.com-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://wrygill.github.io">
-    <img src="https://img.shields.io/badge/Blog-wrygill.github.io-7C3AED?style=flat-square&logo=github&logoColor=white" alt="Blog" />
-  </a>
-  <a href="https://github.com/WryGill">
-    <img src="https://img.shields.io/badge/GitHub-WryGill-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Aromatic;Major+in+Software+Engineering+%F0%9F%92%BB;Building+robust+backend+systems+%F0%9F%9B%A0%EF%B8%8F;Love+open+source+%E2%9D%A4%EF%B8%8F">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Aromatic;Major+in+Software+Engineering+%F0%9F%92%BB;Building+robust+backend+systems+%F0%9F%9B%A0%EF%B8%8F;Love+open+source+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
-  </a>
+  <a href="mailto:constantblock37@gmail.com"><img src="https://img.shields.io/badge/Email-constantblock37%40gmail.com-2563EB?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://wrygill.github.io/"><img src="https://img.shields.io/badge/Blog-wrygill.github.io-7C3AED?style=flat-square&logo=githubpages&logoColor=white"></a>
+  <a href="https://github.com/WryGill"><img src="https://img.shields.io/badge/GitHub-WryGill-24292F?style=flat-square&logo=github&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Focus-AI%20Infrastructure-10B981?style=flat-square">
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About
 
-- 🎓 Undergraduate @ **UESTC** (电子科技大学), Software Engineering
-- 🛠️ Focused on **Backend Development** — Spring Boot, gRPC, Redis
-- 🌱 Exploring **distributed systems** & **cloud-native architecture**
-- 💬 Ask me about Java backend, system design, or anything interesting
-- ⚡ Fun fact: I automate things so I don't have to do them manually
+Software Engineering undergraduate @ **UESTC** (电子科技大学).  
+Building backend systems and distributed infrastructure — now diving into **LLM serving & AI Infra**.
 
 ---
 
-### 🧩 Tech Stack
+### 💼 Experience
 
-**Languages**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java" title="Java" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="C++" title="C++" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" title="Python" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" title="JavaScript" />
-
-**Frameworks & Middleware**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="36" alt="Spring" title="Spring" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-plain.svg" height="36" alt="gRPC" title="gRPC" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL" title="MySQL" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="36" alt="Redis" title="Redis" />
-
-**DevOps & Tools**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker" title="Docker" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="Linux" title="Linux" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" title="Git" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub" title="GitHub" />
+![Tencent](https://img.shields.io/badge/Tencent-%231DBA99?style=flat-square&logo=tencent&logoColor=white)
+**Tencent WXG** — Backend Development Intern
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Tech Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sooty-nu-61.vercel.app/api?username=WryGill&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sooty-nu-61.vercel.app/api?username=WryGill&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2563EB&icon_color=2563EB&text_color=24292F" />
-  <img height="170" alt="WryGill's GitHub Stats" src="https://github-readme-stats-sooty-nu-61.vercel.app/api?username=WryGill&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2563EB&icon_color=2563EB&text_color=24292F" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=WryGill&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=58A6FF" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=WryGill&theme=default&hide_border=true&background=FFFFFF&ring=2563EB&fire=10B981&currStreakLabel=2563EB" />
-  <img height="170" alt="WryGill's Streak Stats" src="https://streak-stats.demolab.com?user=WryGill&theme=default&hide_border=true&background=FFFFFF&ring=2563EB&fire=10B981&currStreakLabel=2563EB" />
-</picture>
+**Languages**  
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### 📈 Most Used Languages
+**Backend & Frameworks**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-%23000000?style=flat-square&logo=mybatis&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-%234285F4?style=flat-square&logo=grpc&logoColor=white)
+![JVM](https://img.shields.io/badge/JVM-%23437291?style=flat-square&logo=eclipseadoptium&logoColor=white)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sooty-nu-61.vercel.app/api/top-langs/?username=WryGill&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sooty-nu-61.vercel.app/api/top-langs/?username=WryGill&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=24292F" />
-  <img alt="Top Languages" src="https://github-readme-stats-sooty-nu-61.vercel.app/api/top-langs/?username=WryGill&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=24292F" />
-</picture>
+**Infrastructure**  
+![Ray](https://img.shields.io/badge/Ray-%23028CF0?style=flat-square&logo=ray&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%233265CE?style=flat-square&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Data & Messaging**  
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-%23231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
+**Tools**  
+![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-%23C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639?style=flat-square&logo=nginx&logoColor=white)
 
 ---
 
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WryGill/WryGill/output/assets/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WryGill/WryGill/output/assets/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/WryGill/WryGill/output/assets/github-contribution-grid-snake.svg" />
-</picture>
-
----
+### 📌 Pinned
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WryGill&style=flat-square&color=2563EB" alt="visitor count" />
+  <a href="https://github.com/WryGill/wrygill.github.io">
+    <img src="https://github-readme-stats-sooty-nu-61.vercel.app/api/pin/?username=WryGill&repo=wrygill.github.io&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=24292F">
+  </a>
+  <a href="https://github.com/WryGill/heartlib">
+    <img src="https://github-readme-stats-sooty-nu-61.vercel.app/api/pin/?username=WryGill&repo=heartlib&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=24292F">
+  </a>
+</p>
+
+---
+
+### 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats-sooty-nu-61.vercel.app/api?username=WryGill&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2563EB&icon_color=2563EB&text_color=24292F&rank_icon=github" height="160">
+  <img src="https://github-readme-stats-sooty-nu-61.vercel.app/api/top-langs/?username=WryGill&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=24292F" height="160">
 </p>
