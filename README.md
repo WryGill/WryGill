@@ -18,8 +18,7 @@ Building backend systems and distributed infrastructure — now diving into **LL
 
 ### 💼 Experience
 
-![Tencent](https://img.shields.io/badge/Tencent-%231DBA99?style=flat-square&logo=tencent&logoColor=white)
-**Tencent WXG** — Backend Development Intern
+**Tencent WXG** · Backend Development Intern
 
 ---
 
@@ -54,19 +53,6 @@ Building backend systems and distributed infrastructure — now diving into **LL
 ![Maven](https://img.shields.io/badge/Maven-%23C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639?style=flat-square&logo=nginx&logoColor=white)
-
----
-
-### 📌 Pinned
-
-<p align="center">
-  <a href="https://github.com/WryGill/wrygill.github.io">
-    <img src="https://github-readme-stats-sooty-nu-61.vercel.app/api/pin/?username=WryGill&repo=wrygill.github.io&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=24292F">
-  </a>
-  <a href="https://github.com/WryGill/heartlib">
-    <img src="https://github-readme-stats-sooty-nu-61.vercel.app/api/pin/?username=WryGill&repo=heartlib&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=24292F">
-  </a>
-</p>
 
 ---
 
