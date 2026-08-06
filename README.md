@@ -60,5 +60,9 @@ Building backend systems and distributed infrastructure — now diving into **LL
 
 <p align="center">
   <img src="https://github-readme-stats-sooty-nu-61.vercel.app/api?username=WryGill&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2563EB&icon_color=2563EB&text_color=24292F&rank_icon=github" height="160">
-  <img src="https://github-readme-stats-sooty-nu-61.vercel.app/api/top-langs/?username=WryGill&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=24292F" height="160">
+  <img src="https://github-readme-stats-sooty-nu-61.vercel.app/api/top-langs/?username=WryGill&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2563EB&icon_color=2563EB&text_color=24292F" height="160">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WryGill/WryGill/output/assets/github-contribution-grid-snake.svg" alt="snake">
 </p>
