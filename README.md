@@ -38,10 +38,8 @@ Started in backend development — after getting exposed to AI during my backend
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F?style=flat-square&logo=springboot&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-%23000000?style=flat-square&logo=mybatis&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-%234285F4?style=flat-square&logo=grpc&logoColor=white)
 ![JVM](https://img.shields.io/badge/JVM-%23437291?style=flat-square&logo=eclipseadoptium&logoColor=white)
-![JUC](https://img.shields.io/badge/JUC-%23000000?style=flat-square&logo=java&logoColor=white)
 
 **Infra & AI**  
 ![vLLM](https://img.shields.io/badge/vLLM-%230B2545?style=flat-square&logo=vllm&logoColor=white)
@@ -55,7 +53,6 @@ Started in backend development — after getting exposed to AI during my backend
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D?style=flat-square&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-%23231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
 ---
 
