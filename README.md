@@ -44,7 +44,7 @@ Started in backend development — after getting exposed to AI during my backend
 ![JUC](https://img.shields.io/badge/JUC-%23000000?style=flat-square&logo=java&logoColor=white)
 
 **Infra & AI**  
-![vLLM](https://img.shields.io/badge/vLLM-%230B2545?style=flat-square)
+![vLLM](https://img.shields.io/badge/vLLM-%230B2545?style=flat-square&logo=vllm&logoColor=white)
 ![SGLang](https://img.shields.io/badge/SGLang-%234A90D9?style=flat-square)
 ![Ray](https://img.shields.io/badge/Ray-%23028CF0?style=flat-square&logo=ray&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
