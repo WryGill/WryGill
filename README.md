@@ -1,4 +1,4 @@
-![Aromatic - Backend & AI Infra](https://raw.githubusercontent.com/WryGill/WryGill/main/assets/header.svg)
+![Aromatic - LLM Serving & AI Infra](https://raw.githubusercontent.com/WryGill/WryGill/main/assets/header.svg)
 
 > **Backend Systems** | **AI Infra** *(in progress)*
 
