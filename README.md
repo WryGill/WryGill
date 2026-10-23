@@ -2,23 +2,20 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/header-mobile-dark.svg">
   <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="assets/header-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header.svg">
-  <img src="assets/header.svg" alt="Aromatic — LLM Serving · AI Infrastructure" width="800">
+  <img src="assets/header.svg" alt="Aromatic — LLM Serving · AI Infrastructure" width="100%">
 </picture>
 
-Software Engineering undergraduate at **UESTC**, with a background in backend development.
-I'm interested in the systems behind LLM inference.
+<br>
 
-### Currently
+<p align="center">
+Software Engineering undergraduate at <b>UESTC</b>, with a background in backend development.<br>
+Currently extending <b>SGLang</b> for LLM inference.
+</p>
 
-Extending **SGLang** for LLM inference.
+<p align="center"><b>Tencent WXG</b> · Backend Development Intern</p>
 
-### Experience
-
-**Tencent WXG** · Backend Development Intern
-
-### Connect
-
-[Blog](https://wrygill.github.io/) · [Email](mailto:constantblock37@gmail.com)
-
-**WeChat:** constantblock37
+<p align="center">
+<a href="https://wrygill.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/blog-dark.svg"><img src="assets/blog.svg" alt="Read my blog" width="126" height="32"></picture></a>
+<a href="mailto:constantblock37@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/email-dark.svg"><img src="assets/email.svg" alt="Say hello" width="108" height="32"></picture></a>
+</p>
+<p align="center">WeChat · <code>constantblock37</code></p>

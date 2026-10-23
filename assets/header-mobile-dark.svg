@@ -1,9 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="132" viewBox="0 0 400 132" role="img" aria-labelledby="title description">
-  <title id="title">Aromatic</title>
-  <desc id="description">LLM Serving · AI Infrastructure</desc>
-  <rect x="0.5" y="0.5" width="399" height="131" rx="10" fill="#0d1117" stroke="#30363d"/>
-  <path d="M24 30v70" stroke="#58a6ff" stroke-width="3"/>
-  <text x="40" y="65" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="36" font-weight="650" fill="#e6edf3">Aromatic</text>
-  <text x="41" y="95" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#9da7b3">LLM Serving · AI Infrastructure</text>
-  <path d="m337 41 9 9-9 9m17 0h10" fill="none" stroke="#58a6ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="220" viewBox="0 0 420 220" role="img" aria-labelledby="title desc">
+<title id="title">Aromatic</title><desc id="desc">LLM Serving · AI Infrastructure</desc>
+<defs>
+ <linearGradient id="line"><stop stop-color="#6da6ff"/><stop offset="1" stop-color="#b394ff"/></linearGradient>
+ <radialGradient id="glowBlue"><stop stop-color="#6da6ff" stop-opacity=".25"/><stop offset="1" stop-color="#6da6ff" stop-opacity="0"/></radialGradient>
+ <radialGradient id="glowViolet"><stop stop-color="#b394ff" stop-opacity=".25"/><stop offset="1" stop-color="#b394ff" stop-opacity="0"/></radialGradient>
+ <clipPath id="clip"><rect width="420" height="220" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+ <rect width="420" height="220" fill="#101429"/>
+ <ellipse cx="50.4" cy="44.0" rx="168.0" ry="330.0" fill="url(#glowBlue)"/>
+ <ellipse cx="386.40000000000003" cy="154.0" rx="180.6" ry="330.0" fill="url(#glowViolet)"/>
+ <g fill="none" stroke="url(#line)" stroke-opacity=".13"><circle cx="0" cy="220" r="110"/><circle cx="0" cy="220" r="135"/><circle cx="420" cy="0" r="90"/><circle cx="420" cy="0" r="115"/></g>
+ <g fill="#6da6ff" opacity=".23"><circle cx="30" cy="187" r="1.4"/><circle cx="30" cy="161" r="1.4"/><circle cx="56" cy="187" r="1.4"/><circle cx="56" cy="161" r="1.4"/><circle cx="368" cy="187" r="1.4"/><circle cx="368" cy="161" r="1.4"/><circle cx="394" cy="187" r="1.4"/><circle cx="394" cy="161" r="1.4"/></g>
+ <path d="M186.0 34h48" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/>
+ <text x="210.0" y="111" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="-2" fill="#eef2ff">Aromatic<tspan fill="#b394ff">.</tspan></text>
+ <text x="210.0" y="147" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" letter-spacing=".5" fill="#b4bedb">LLM Serving · AI Infrastructure</text>
+ <text x="210.0" y="191" text-anchor="middle" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="11" letter-spacing="2.3" fill="#b4bedb">BACKEND ROOTS / SYSTEMS FOCUS</text>
+</g></svg>
