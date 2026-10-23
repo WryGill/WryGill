@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="160" viewBox="0 0 800 160" role="img" aria-labelledby="title description">
+  <title id="title">Aromatic</title>
+  <desc id="description">LLM Serving · AI Infrastructure</desc>
+  <rect x="0.5" y="0.5" width="799" height="159" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <path d="M32 39v82" stroke="#58a6ff" stroke-width="3"/>
+  <text x="52" y="79" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="650" fill="#e6edf3">Aromatic</text>
+  <text x="54" y="113" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#9da7b3">LLM Serving · AI Infrastructure</text>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="666" y="44" width="88" height="72" rx="8" stroke="#30363d"/>
+    <path d="m686 67 12 12-12 12m22 0h18" stroke="#58a6ff" stroke-width="3"/>
+  </g>
+</svg>
